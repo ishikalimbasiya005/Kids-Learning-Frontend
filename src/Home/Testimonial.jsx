@@ -35,7 +35,7 @@ const Testimonial = () => {
         }}
       >
         <SwiperSlide>
-          <img loading="lazy"  className="img" src="assets\Person-1.jpg" alt="person-1" />
+          <img loading="lazy"  className="img" src="assets/person-1.jpg" alt="person-1" />
           <h3 className="testimonial-h3">Ms Himali Singh</h3>
           <h4 className="testimonial-h4">Software Engineer</h4>
           <p className="testimonial-text">
@@ -44,7 +44,7 @@ const Testimonial = () => {
           </p>
         </SwiperSlide>
         <SwiperSlide>
-          <img loading="lazy"  className="img" src="assets\Person-2.jpg" alt="person-2" />
+          <img loading="lazy"  className="img" src="assets/person-2.jpg" alt="person-2" />
           <h3 className="testimonial-h3">Mr. Devang Trivedi</h3>
           <h4 className="testimonial-h4">Teacher</h4>
           <p className="testimonial-text">
@@ -53,7 +53,7 @@ const Testimonial = () => {
           </p>
         </SwiperSlide>
         <SwiperSlide>
-          <img loading="lazy"  className="img" src="assets\Person-3.jpg" alt="person-3" />
+          <img loading="lazy"  className="img" src="assets/person-3.jpg" alt="person-3" />
           <h3 className="testimonial-h3">shweta Roy</h3>
           <h4 className="testimonial-h4">Director of Cardinal Group</h4>
           <p className="testimonial-text">
@@ -63,7 +63,7 @@ const Testimonial = () => {
           </p>
         </SwiperSlide>
         <SwiperSlide>
-          <img loading="lazy"  className="img" src="assets\Person-4.jpg" alt="person-4" />
+          <img loading="lazy"  className="img" src="assets/person-4.jpg" alt="person-4" />
           <h3 className="testimonial-h3">Raj Chaudhri</h3>
           <h4 className="testimonial-h4">Chairman</h4>
           <p className="testimonial-text">

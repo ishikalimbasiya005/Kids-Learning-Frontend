@@ -53,7 +53,7 @@ const MathBook = () => {
 
                             <div className="math-cards">
                                 <div className="math-image">
-                                    <img loading="lazy"  src="assets/shap.jpg" alt="Shape-image" />
+                                    <img loading="lazy"  src="assets/Shap.jpg" alt="Shape-image" />
                                 </div>
                                 <div className="math-content">
                                     <h4 className="math-title">🔺Colorful Shapes</h4>
