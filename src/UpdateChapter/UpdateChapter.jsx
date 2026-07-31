@@ -23,7 +23,7 @@ const UpdateChapter = () => {
   useEffect(() => {
     // if subjects not passed, fetch from backend
     if (!subjects.length) {
-      axios.get(`${process.env.REACT_APP_API_URL || "${process.env.REACT_APP_API_URL || "http://localhost:5000"}"}/books`)
+      axios.get(`${process.env.REACT_APP_API_URL || "http://localhost:5000"}/books`)
         .then(res => setSubjects(res.data))
         .catch(err => console.error(err));
     }

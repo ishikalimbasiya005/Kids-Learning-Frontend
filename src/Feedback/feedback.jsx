@@ -10,7 +10,7 @@ const FeedbackAdmin = () => {
 
   useEffect(() => {
     axios
-      .get(`${process.env.REACT_APP_API_URL || "${process.env.REACT_APP_API_URL || "http://localhost:5000"}"}/feedback`)
+      .get(`${process.env.REACT_APP_API_URL || "http://localhost:5000"}/feedback`)
       .then((res) => setFeedbacks(res.data))
       .catch((err) => console.error(err));
   }, []);

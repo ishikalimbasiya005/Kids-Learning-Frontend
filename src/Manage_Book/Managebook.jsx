@@ -13,7 +13,7 @@ const ManageChapters = () => {
 
   const fetchSubjects = async () => {
     try {
-      const res = await axios.get(`${process.env.REACT_APP_API_URL || "${process.env.REACT_APP_API_URL || "http://localhost:5000"}"}/books`);
+      const res = await axios.get(`${process.env.REACT_APP_API_URL || "http://localhost:5000"}/books`);
       setSubjects(res.data);
     } catch (err) {
       console.error(err);
