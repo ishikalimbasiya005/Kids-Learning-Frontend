@@ -46,7 +46,7 @@ const Animals = () => {
     <>
       <div className="animal-banner">
         <img
-          src="assets\Farm.jpg"
+          src="assets/Farm.jpg"
           alt="Animal-Banner"
           className="Farm-banner"
         />
@@ -58,7 +58,7 @@ const Animals = () => {
             <div className="animal-block">
               <div className="animal-card">
                 <img
-                  src="assets\lion.jpg"
+                  src="assets/lion.jpg"
                   alt="Lion-image"
                   className="lion"
                   onMouseEnter={() =>
@@ -70,7 +70,7 @@ const Animals = () => {
 
               <div className="animal-card">
                 <img
-                  src="assets\elephant.jpg"
+                  src="assets/elephant.jpg"
                   alt="elephant-image"
                   className="elephant"
                   onMouseEnter={() =>
@@ -82,7 +82,7 @@ const Animals = () => {
 
               <div className="animal-card">
                 <img
-                  src="assets\cow.jpg"
+                  src="assets/cow.jpg"
                   alt="cow-image"
                   className="cow"
                   onMouseEnter={() =>
@@ -94,7 +94,7 @@ const Animals = () => {
 
               <div className="animal-card">
                 <img
-                  src="assets\monkey.jpg"
+                  src="assets/monkey.jpg"
                   alt="monkey-image"
                   className="monkey"
                   onMouseEnter={() =>
@@ -106,7 +106,7 @@ const Animals = () => {
 
               <div className="animal-card">
                 <img
-                  src="assets\bear.jpg"
+                  src="assets/bear.jpg"
                   alt="bear-image"
                   className="bear"
                   onMouseEnter={() =>
@@ -118,7 +118,7 @@ const Animals = () => {
 
               <div className="animal-card">
                 <img
-                  src="assets\fox.jpg"
+                  src="assets/fox.jpg"
                   alt="fox-image"
                   className="fox"
                   onMouseEnter={() => playAnimal("Fox", "/Sound/fox-purrs.mp3")}
@@ -128,7 +128,7 @@ const Animals = () => {
 
               <div className="animal-card">
                 <img
-                  src="assets\horse.jpg"
+                  src="assets/horse.jpg"
                   alt="horse-image"
                   className="horse"
                   onMouseEnter={() =>
@@ -140,7 +140,7 @@ const Animals = () => {
 
               <div className="animal-card">
                 <img
-                  src="assets\owl.jpg"
+                  src="assets/owl.jpg"
                   alt="owl-image"
                   className="owl"
                   onMouseEnter={() => playAnimal("Owl", "/Sound/owl-59011.mp3")}
@@ -150,7 +150,7 @@ const Animals = () => {
 
               <div className="animal-card">
                 <img
-                  src="assets\giraffe.jpg"
+                  src="assets/giraffe.jpg"
                   alt="giraffe-image"
                   className="giraffe"
                   onMouseEnter={() =>
@@ -165,7 +165,7 @@ const Animals = () => {
 
               <div className="animal-card">
                 <img
-                  src="assets\snake.jpg"
+                  src="assets/snake.jpg"
                   alt="snake-image"
                   className="snake"
                   onMouseEnter={() =>
@@ -177,7 +177,7 @@ const Animals = () => {
 
               <div className="animal-card">
                 <img
-                  src="assets\goat.jpg"
+                  src="assets/goat.jpg"
                   alt="goat-image"
                   className="goat"
                   onMouseEnter={() =>
@@ -189,7 +189,7 @@ const Animals = () => {
 
               <div className="animal-card">
                 <img
-                  src="assets\zebra.jpg"
+                  src="assets/zebra.jpg"
                   alt="zebra-image"
                   className="zebra"
                   onMouseEnter={() =>
@@ -204,7 +204,7 @@ const Animals = () => {
 
               <div className="animal-card">
                 <img
-                  src="assets\hippo.jpg"
+                  src="assets/hippo.jpg"
                   alt="hippo-image"
                   className="hippo"
                   onMouseEnter={() =>
@@ -216,7 +216,7 @@ const Animals = () => {
 
               <div className="animal-card">
                 <img
-                  src="assets\tiger.jpg"
+                  src="assets/tiger.jpg"
                   alt="tiger-image"
                   className="tiger"
                   onMouseEnter={() =>
@@ -228,7 +228,7 @@ const Animals = () => {
 
               <div className="animal-card">
                 <img
-                  src="assets\sheep.jpg"
+                  src="assets/sheep.jpg"
                   alt="sheep-image"
                   className="sheep"
                   onMouseEnter={() =>
@@ -240,7 +240,7 @@ const Animals = () => {
 
               <div className="animal-card">
                 <img
-                  src="assets\donkey.jpg"
+                  src="assets/donkey.jpg"
                   alt="donkey-image"
                   className="donkey"
                   onMouseEnter={() =>
@@ -252,7 +252,7 @@ const Animals = () => {
 
               <div className="animal-card">
                 <img
-                  src="assets\rooster.jpg"
+                  src="assets/rooster.jpg"
                   alt="rooster-image"
                   className="rooster"
                   onMouseEnter={() =>
@@ -264,7 +264,7 @@ const Animals = () => {
 
               <div className="animal-card">
                 <img
-                  src="assets\wolf.jpg"
+                  src="assets/wolf.jpg"
                   alt="wolf-image"
                   className="wolf"
                   onMouseEnter={() =>

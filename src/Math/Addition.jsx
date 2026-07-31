@@ -19,7 +19,7 @@ const Addition = () => {
     return(
         <>
             <div className="addition-banner">
-                <img loading="lazy"  src="assets\Addition-banner.jpg" alt="addition-banner-image" className="addition-banner-img" />
+                <img loading="lazy"  src="assets/Addition-banner.jpg" alt="addition-banner-image" className="addition-banner-img" />
             </div>
 
             <div className="addition-outer">

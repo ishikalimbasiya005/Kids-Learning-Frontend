@@ -44,7 +44,7 @@ const Footer = () => {
           </p>
           <img
             className="Footer-img"
-            src="assets\Footer-Block.jpg"
+            src="assets/Footer-Block.jpg"
             alt="Footer-img"
           />
         </div>

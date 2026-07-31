@@ -18,7 +18,7 @@ const Information = () => {
               </div>
               <div className="about-info-image">
                 <img
-                  src="assets\kids-removebg-preview.png"
+                  src="assets/kids-removebg-preview.png"
                   alt="information-block-img"
                 />
               </div>

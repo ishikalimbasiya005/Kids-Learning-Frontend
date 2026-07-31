@@ -169,7 +169,7 @@ const Alphabets = () => {
                   <img loading="lazy"  src="/assets/Z.jpg" alt="Z-letter" onClick={() => new Audio("/Sound/1755363408945451554jpk3zjxi-voicemaker.in-speech.mp3").play()} />
                 </div>
               </div>
-            <img loading="lazy"  className="alphabet-small-img" src="assets\atoz-small-img-removebg-preview.png" alt="small-img" />
+            <img loading="lazy"  className="alphabet-small-img" src="assets/atoz-small-img-removebg-preview.png" alt="small-img" />
             <Link to="/Englishbooks" className="back-btn-alphabets">BACK</Link>
             </div>
           </div>

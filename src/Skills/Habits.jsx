@@ -9,7 +9,7 @@ const Habits = () => {
     return(
         <>
              <div className="habits-banner">
-                <img loading="lazy"  src="assets\Habits-banner.jpg" alt="habits-book-card" className="habits-banner-img"/>
+                <img loading="lazy"  src="assets/Habits-banner.jpg" alt="habits-book-card" className="habits-banner-img"/>
                 <h2 className="habits-title">Good Habits</h2>
             </div>
 

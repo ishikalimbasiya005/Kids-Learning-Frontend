@@ -19,17 +19,17 @@ const Weather = () => {
     return(
         <>
             <div className="weather-banner">
-                <img loading="lazy"  src="assets\Weather-banner.jpg" alt="weather-banner-img" className="weather-img-banner"/> 
+                <img loading="lazy"  src="assets/weather-banner.jpg" alt="Weather-banner" className="weather-banner" /> 
             </div>
 
             <div className="weather-outer">
                 <div className="container">
                     <div className="weather-inner">
-                        <img loading="lazy"  src="assets\d-rain-removebg-preview.png" alt="doremon-rain-image" className="d-rain" />
+                        <img loading="lazy"  src="assets/d-rain-removebg-preview.png" alt="doremon-rain-image" className="d-rain" />
                         <div className="weather-block">
                             <div className="weather-card">
                                 <div className="weather-img">
-                                    <img loading="lazy"  src="assets\sunny.jpg" alt="sunny" onMouseEnter={() => speakWeather("Sunny")}/>
+                                    <img loading="lazy"  src="assets/sunny.jpg" alt="sunny" onMouseEnter={() => speakWeather("Sunny")}/>
                                 </div>
                                 <div className="weather-content">
                                     <h4 className="weather-text">"🌞When the Sun shines brightly with no or very few clouds."</h4>
@@ -38,7 +38,7 @@ const Weather = () => {
 
                             <div className="weather-card">
                                 <div className="weather-img">
-                                    <img loading="lazy"  src="assets\rainy.jpg" alt="rainy" onMouseEnter={() => speakWeather("rainy")}/>
+                                    <img loading="lazy"  src="assets/rainy.jpg" alt="rainy" onMouseEnter={() => speakWeather("rainy")}/>
                                 </div>
                                 <div className="weather-content">
                                     <h4 className="weather-text">"☔When condensed water droplets in clouds fall as rain."</h4>
@@ -47,7 +47,7 @@ const Weather = () => {
 
                             <div className="weather-card">
                                 <div className="weather-img">
-                                    <img loading="lazy"  src="assets\windy.jpg" alt="Windy" onMouseEnter={() => speakWeather("windy")}/>
+                                    <img loading="lazy"  src="assets/windy.jpg" alt="Windy" onMouseEnter={() => speakWeather("windy")}/>
                                 </div>
                                 <div className="weather-content">
                                     <h4 className="weather-text">"🌬️When air moves from high-pressure areas to low-pressure areas."</h4>

@@ -11,7 +11,7 @@ const Our = () => {
                     <h3>Meet Our Team</h3>
                     <p>We are a passionate team working together to bring ideas to life.</p>
                 </div>
-            <img loading="lazy"  src="assets\our-doremon-removebg-preview.png" alt="our-doremon-image" className="our-d" />
+            <img loading="lazy"  src="assets/our-doremon-removebg-preview.png" alt="our-doremon-image" className="our-d" />
                 <div className="about-card">
                     <div className="our-page">
                         <div className="out-image">

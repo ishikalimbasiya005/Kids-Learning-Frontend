@@ -18,7 +18,7 @@ const Intro = () => {
             </div>
             <div className="about-text">
               <img loading="lazy" 
-                src="assets\about-text-removebg-preview.png"
+                src="assets/about-text-removebg-preview.png"
                 alt="about-text"/>
             </div>
           </div>

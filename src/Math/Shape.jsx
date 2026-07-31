@@ -13,7 +13,7 @@ const Shape = () => {
     return(
         <>
             <div className="shap-banner">
-                <img loading="lazy"  src="assets\shape-banner.jpg" alt="shape-banner-image"  className="shap-img-banner"/>
+                <img loading="lazy"  src="assets/shape-banner.jpg" alt="shape-banner-image"  className="shap-img-banner"/>
             </div>
             <h3 className="note">Click on the shapes to hear their names! 🎵</h3>
             <div className="shape-outer">

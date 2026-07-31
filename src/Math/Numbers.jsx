@@ -20,7 +20,7 @@ const Numbers = () => {
     return(
         <>
         <div className="number-banner">
-            <img loading="lazy"  src="assets\number-banner.jpg" alt="Number-banner" className="number-banner-image" />
+            <img loading="lazy"  src="assets/number-banner.jpg" alt="Number-banner" className="number-banner-image" />
         </div>
 
         <div className="number-outer">
@@ -28,43 +28,43 @@ const Numbers = () => {
                 <div className="number-inner">
                     <div className="number-block">
                         <div className="number-card">
-                            <img loading="lazy"  src="assets\one.jpg" alt="one-image"  onMouseEnter={() => speakNumbers('one')} />
+                            <img loading="lazy"  src="assets/one.jpg" alt="one-image"  onMouseEnter={() => speakNumbers('one')} />
                         </div>
 
                         <div className="number-card">
-                            <img loading="lazy"  src="assets\two.jpg" alt="two-image" onMouseEnter={() => speakNumbers('two')}/>
+                            <img loading="lazy"  src="assets/two.jpg" alt="two-image" onMouseEnter={() => speakNumbers('two')}/>
                         </div>
 
                          <div className="number-card">
-                            <img loading="lazy"  src="assets\three.jpg" alt="three-image" onMouseEnter={() => speakNumbers('three')}/>
+                            <img loading="lazy"  src="assets/three.jpg" alt="three-image" onMouseEnter={() => speakNumbers('three')}/>
                         </div>
 
                         <div className="number-card">
-                            <img loading="lazy"  src="assets\four.jpg" alt="four-image" onMouseEnter={() => speakNumbers('four')}/>
+                            <img loading="lazy"  src="assets/four.jpg" alt="four-image" onMouseEnter={() => speakNumbers('four')}/>
                         </div>
 
                         <div className="number-card">
-                            <img loading="lazy"  src="assets\five.jpg" alt="five-image" onMouseEnter={() => speakNumbers('five')}/>
+                            <img loading="lazy"  src="assets/five.jpg" alt="five-image" onMouseEnter={() => speakNumbers('five')}/>
                         </div>
 
                         <div className="number-card">
-                            <img loading="lazy"  src="assets\six.jpg" alt="six-image" onMouseEnter={() => speakNumbers('six')}/>
+                            <img loading="lazy"  src="assets/six.jpg" alt="six-image" onMouseEnter={() => speakNumbers('six')}/>
                         </div>
 
                         <div className="number-card">
-                            <img loading="lazy"  src="assets\seven.jpg" alt="seven-image" onMouseEnter={() => speakNumbers('seven')}/>
+                            <img loading="lazy"  src="assets/seven.jpg" alt="seven-image" onMouseEnter={() => speakNumbers('seven')}/>
                         </div>
 
                         <div className="number-card">
-                            <img loading="lazy"  src="assets\eight.jpg" alt="eight-image" onMouseEnter={() => speakNumbers('eight')}/>
+                            <img loading="lazy"  src="assets/eight.jpg" alt="eight-image" onMouseEnter={() => speakNumbers('eight')}/>
                         </div>
 
                         <div className="number-card">
-                            <img loading="lazy"  src="assets\nine.jpg" alt="nine-image" onMouseEnter={() => speakNumbers('nine')}/>
+                            <img loading="lazy"  src="assets/nine.jpg" alt="nine-image" onMouseEnter={() => speakNumbers('nine')}/>
                         </div>
 
                         <div className="number-card">
-                            <img loading="lazy"  src="assets\ten.jpg" alt="ten-image" onMouseEnter={() => speakNumbers('ten')}/>
+                            <img loading="lazy"  src="assets/ten.jpg" alt="ten-image" onMouseEnter={() => speakNumbers('ten')}/>
                         </div>
 
                     </div>

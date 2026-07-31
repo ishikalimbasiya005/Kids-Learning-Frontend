@@ -20,7 +20,7 @@ const Trees = () => {
     return(
         <>
         <div className="trees-banner">
-            <img loading="lazy"  src="assets\Trees-banner.jpg" alt="" className="trees-banner-img" />
+            <img loading="lazy"  src="assets/Trees-banner.jpg" alt="" className="trees-banner-img" />
         </div>
 
         <div className="trees-outer">
@@ -29,7 +29,7 @@ const Trees = () => {
                     <div className="trees-block">
                         <div className="trees-card">
                             <div className="trees-img">
-                                <img loading="lazy"  src="assets\pomegranate.jpg" alt="pomegranate" onMouseEnter={() => speakTrees("pomegranate")}/>
+                                <img loading="lazy"  src="assets/pomegranate.jpg" alt="pomegranate" onMouseEnter={() => speakTrees("pomegranate")}/>
                             </div>
                             <div className="trees-content">
                                 <h4 className="trees-name">Pomegranate</h4>
@@ -38,7 +38,7 @@ const Trees = () => {
 
                          <div className="trees-card">
                             <div className="trees-img">
-                                <img loading="lazy"  src="assets\peepal.jpg" alt="peepal" onMouseEnter={() => speakTrees("peepal")}/>
+                                <img loading="lazy"  src="assets/peepal.jpg" alt="peepal" onMouseEnter={() => speakTrees("peepal")}/>
                             </div>
                             <div className="trees-content">
                                 <h4 className="trees-name">Peepal</h4>
@@ -47,7 +47,7 @@ const Trees = () => {
 
                         <div className="trees-card">
                             <div className="trees-img">
-                                <img loading="lazy"  src="assets\Oak.jpg" alt="Oak" onMouseEnter={() => speakTrees("oak")}/>
+                                <img loading="lazy"  src="assets/Oak.jpg" alt="Oak" onMouseEnter={() => speakTrees("oak")}/>
                             </div>
                             <div className="trees-content">
                                 <h4 className="trees-name">Oak</h4>
@@ -56,7 +56,7 @@ const Trees = () => {
 
                          <div className="trees-card">
                             <div className="trees-img">
-                                <img loading="lazy"  src="assets\Neem.jpg" alt="Neem" onMouseEnter={() => speakTrees("neem")}/>
+                                <img loading="lazy"  src="assets/Neem.jpg" alt="Neem" onMouseEnter={() => speakTrees("neem")}/>
                             </div>
                             <div className="trees-content">
                                 <h4 className="trees-name">Neem</h4>
@@ -65,7 +65,7 @@ const Trees = () => {
 
                          <div className="trees-card">
                             <div className="trees-img">
-                                <img loading="lazy"  src="assets\Guava.jpg" alt="Guava" onMouseEnter={() => speakTrees("guava")}/>
+                                <img loading="lazy"  src="assets/Guava.jpg" alt="Guava" onMouseEnter={() => speakTrees("guava")}/>
                             </div>
                             <div className="trees-content">
                                 <h4 className="trees-name">Guava</h4>
@@ -74,7 +74,7 @@ const Trees = () => {
 
                          <div className="trees-card">
                             <div className="trees-img">
-                                <img loading="lazy"  src="assets\Mango.jpg" alt="Mango" onMouseEnter={() => speakTrees("mango")}/>
+                                <img loading="lazy"  src="assets/Mango.jpg" alt="Mango" onMouseEnter={() => speakTrees("mango")}/>
                             </div>
                             <div className="trees-content">
                                 <h4 className="trees-name">Mango</h4>
@@ -83,7 +83,7 @@ const Trees = () => {
 
                          <div className="trees-card">
                             <div className="trees-img">
-                                <img loading="lazy"  src="assets\Coconut.jpg" alt="Coconut" onMouseEnter={() => speakTrees("coconut")}/>
+                                <img loading="lazy"  src="assets/Coconut.jpg" alt="Coconut" onMouseEnter={() => speakTrees("coconut")}/>
                             </div>
                             <div className="trees-content">
                                 <h4 className="trees-name">Coconut</h4>
@@ -92,7 +92,7 @@ const Trees = () => {
 
                          <div className="trees-card">
                             <div className="trees-img">
-                                <img loading="lazy"  src="assets\Banyan.jpg" alt="Banyan" onMouseEnter={() => speakTrees("banyan")}/>
+                                <img loading="lazy"  src="assets/Banyan.jpg" alt="Banyan" onMouseEnter={() => speakTrees("banyan")}/>
                             </div>
                             <div className="trees-content">
                                 <h4 className="trees-name">Banyan</h4>
@@ -101,7 +101,7 @@ const Trees = () => {
 
                         <div className="trees-card">
                             <div className="trees-img">
-                                <img loading="lazy"  src="assets\Banana.jpg" alt="Banana" onMouseEnter={() => speakTrees("banana")}/>
+                                <img loading="lazy"  src="assets/Banana.jpg" alt="Banana" onMouseEnter={() => speakTrees("banana")}/>
                             </div>
                             <div className="trees-content">
                                 <h4 className="trees-name">Banana</h4>
@@ -110,7 +110,7 @@ const Trees = () => {
 
                         <div className="trees-card">
                             <div className="trees-img">
-                                <img loading="lazy"  src="assets\Bamboo.jpg" alt="Bamboo" onMouseEnter={() => speakTrees("bamboo")}/>
+                                <img loading="lazy"  src="assets/Bamboo.jpg" alt="Bamboo" onMouseEnter={() => speakTrees("bamboo")}/>
                             </div>
                             <div className="trees-content">
                                 <h4 className="trees-name">Bamboo</h4>
@@ -119,7 +119,7 @@ const Trees = () => {
 
                         <div className="trees-card">
                             <div className="trees-img">
-                                <img loading="lazy"  src="assets\Babul.jpg" alt="Babul" onMouseEnter={() => speakTrees("babul")}/>
+                                <img loading="lazy"  src="assets/Babul.jpg" alt="Babul" onMouseEnter={() => speakTrees("babul")}/>
                             </div>
                             <div className="trees-content">
                                 <h4 className="trees-name">Babul</h4>
@@ -128,7 +128,7 @@ const Trees = () => {
 
                         <div className="trees-card">
                             <div className="trees-img">
-                                <img loading="lazy"  src="assets\Pomegranate-1.jpg" alt="Pomegranate-1" onMouseEnter={() => speakTrees("Pomegranate")}/>
+                                <img loading="lazy"  src="assets/Pomegranate-1.jpg" alt="Pomegranate-1" onMouseEnter={() => speakTrees("Pomegranate")}/>
                             </div>
                             <div className="trees-content">
                                 <h4 className="trees-name">Pomegranate</h4>
@@ -138,7 +138,7 @@ const Trees = () => {
                 </div>
             </div>
         </div>
-        <img loading="lazy"  src="assets\d-tree-removebg-preview.png" alt="d-tree-image" className="d-tree-image" />
+        <img loading="lazy"  src="assets/d-tree-removebg-preview.png" alt="d-tree-image" className="d-tree-image" />
         <Link to="/Sciencebook" className="back-btn-Trees">BACK</Link>
         </>
     )

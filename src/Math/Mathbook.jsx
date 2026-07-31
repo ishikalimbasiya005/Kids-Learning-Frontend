@@ -64,7 +64,7 @@ const MathBook = () => {
 
                             <div className="math-cards">
                                 <div className="math-image">
-                                    <img loading="lazy"  src="assets/Sign-card.jpg" alt="Sign-image" />
+                                    <img loading="lazy"  src="assets/sign-card.jpg" alt="Sign-card image" />
                                 </div>
                                 <div className="math-content">
                                     <h4 className="math-title">➕Sign Family Party</h4>

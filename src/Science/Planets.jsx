@@ -18,7 +18,7 @@ const Planets = () => {
     return(
         <>
             <div className="planets-banner">
-                <img loading="lazy"  src="assets\planet-banner.jpg" alt="planets-banner" className="planet" />
+                <img loading="lazy"  src="assets/planet-banner.jpg" alt="planets-banner" className="planet" />
             </div>
 
             <div className="planet-outer">
@@ -27,7 +27,7 @@ const Planets = () => {
                         
                          <div className="planet-cards">
                             <div className="planet-img">
-                                <img loading="lazy"  src="assets\sun-removebg-preview(1).png" alt="Sun-image" className="sun" onMouseEnter={() => speakPlanet("Sun")}/>
+                                <img loading="lazy"  src="assets/sun-removebg-preview(1).png" alt="Sun-image" className="sun" onMouseEnter={() => speakPlanet("Sun")}/>
                             </div>
                             <div className="planet-text">
                                 <h4 className="sun-name">Sun</h4>
@@ -37,7 +37,7 @@ const Planets = () => {
 
                          <div className="planet-cards">
                             <div className="planet-img">
-                                <img loading="lazy"  src="assets\planet-removebg-preview.png" alt="mercury-image" className="mercury " onMouseEnter={() => speakPlanet("Mercury")}/>
+                                <img loading="lazy"  src="assets/planet-removebg-preview.png" alt="mercury-image" className="mercury " onMouseEnter={() => speakPlanet("Mercury")}/>
                             </div>
                             <div className="planet-text">
                                 <h4 className="mercury-name">Mercury</h4>
@@ -47,7 +47,7 @@ const Planets = () => {
 
                         <div className="planet-cards">
                             <div className="planet-img">
-                                <img loading="lazy"  src="assets\venus-removebg-preview.png" alt="venus-image" className="venus" onMouseEnter={() => speakPlanet("venus")}/>
+                                <img loading="lazy"  src="assets/venus-removebg-preview.png" alt="venus-image" className="venus" onMouseEnter={() => speakPlanet("venus")}/>
                             </div>
                             <div className="planet-text">
                                 <h4 className="venus-name">Venus</h4>
@@ -57,7 +57,7 @@ const Planets = () => {
 
                         <div className="planet-cards">
                             <div className="planet-img">
-                                <img loading="lazy"  src="assets\earth-removebg-preview.png" alt="earth-image" className="earth" onMouseEnter={() => speakPlanet("earth")}/>
+                                <img loading="lazy"  src="assets/earth-removebg-preview.png" alt="earth-image" className="earth" onMouseEnter={() => speakPlanet("earth")}/>
                             </div>
                             <div className="planet-text">
                                 <h4 className="earth-name">Earth</h4>
@@ -67,7 +67,7 @@ const Planets = () => {
 
                         <div className="planet-cards">
                             <div className="planet-img">
-                                <img loading="lazy"  src="assets\mars-removebg-preview.png" alt="mars-image" className="mars" onMouseEnter={() => speakPlanet("mars")}/>
+                                <img loading="lazy"  src="assets/mars-removebg-preview.png" alt="mars-image" className="mars" onMouseEnter={() => speakPlanet("mars")}/>
                             </div>
                             <div className="planet-text">
                                 <h4 className="mars-name">Mars</h4>
@@ -77,7 +77,7 @@ const Planets = () => {
 
                         <div className="planet-cards">
                             <div className="planet-img">
-                                <img loading="lazy"  src="assets\jupiter-removebg-preview.png" alt="jupiter-image" className="jupiter" onMouseEnter={() => speakPlanet("jupiter")}/>
+                                <img loading="lazy"  src="assets/jupiter-removebg-preview.png" alt="jupiter-image" className="jupiter" onMouseEnter={() => speakPlanet("jupiter")}/>
                             </div>
                             <div className="planet-text">
                                 <h4 className="jupiter-name">Jupiter</h4>
@@ -87,7 +87,7 @@ const Planets = () => {
 
                         <div className="planet-cards">
                             <div className="planet-img">
-                                <img loading="lazy"  src="assets\saturn-removebg-preview.png" alt="saturn-image" className="saturn" onMouseEnter={() => speakPlanet("saturn")}/>
+                                <img loading="lazy"  src="assets/saturn-removebg-preview.png" alt="saturn-image" className="saturn" onMouseEnter={() => speakPlanet("saturn")}/>
                             </div>
                             <div className="planet-text">
                                 <h4 className="saturn-name">Saturn</h4>
@@ -97,7 +97,7 @@ const Planets = () => {
 
                         <div className="planet-cards">
                             <div className="planet-img">
-                                <img loading="lazy"  src="assets\uranus-removebg-preview.png" alt="uranus-image" className="uranus" onMouseEnter={() => speakPlanet("uranus")}/>
+                                <img loading="lazy"  src="assets/uranus-removebg-preview.png" alt="uranus-image" className="uranus" onMouseEnter={() => speakPlanet("uranus")}/>
                             </div>
                             <div className="planet-text">
                                 <h4 className="uranus-name">Uranus</h4>
@@ -107,7 +107,7 @@ const Planets = () => {
 
                         <div className="planet-cards">
                             <div className="planet-img">
-                                <img loading="lazy"  src="assets\neptune-removebg-preview.png" alt="neptune-image" className="neptune" onMouseEnter={() => speakPlanet("neptune")}/>
+                                <img loading="lazy"  src="assets/neptune-removebg-preview.png" alt="neptune-image" className="neptune" onMouseEnter={() => speakPlanet("neptune")}/>
                             </div>
                             <div className="planet-text">
                                 <h4 className="neptune-name">Neptune</h4>
@@ -117,7 +117,7 @@ const Planets = () => {
 
                         <div className="planet-cards">
                             <div className="planet-img">
-                                <img loading="lazy"  src="assets\pluto-removebg-preview.png" alt="pluto-image" className="pluto" onMouseEnter={() => speakPlanet("pluto")}/>
+                                <img loading="lazy"  src="assets/pluto-removebg-preview.png" alt="pluto-image" className="pluto" onMouseEnter={() => speakPlanet("pluto")}/>
                             </div>
                             <div className="planet-text">
                                 <h4 className="pluto-name">Pluto</h4>
@@ -127,7 +127,7 @@ const Planets = () => {
 
                         <div className="planet-cards">
                             <div className="planet-img">
-                                <img loading="lazy"  src="assets\moon-removebg-preview.png" alt="moon-image" className="moon" onMouseEnter={() => speakPlanet("moon")}/>
+                                <img loading="lazy"  src="assets/moon-removebg-preview.png" alt="moon-image" className="moon" onMouseEnter={() => speakPlanet("moon")}/>
                             </div>
                             <div className="planet-text">
                                 <h4 className="moon-name">Moon</h4>
