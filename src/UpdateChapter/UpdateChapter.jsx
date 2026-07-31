@@ -27,6 +27,7 @@ const UpdateChapter = () => {
         .then(res => setSubjects(res.data))
         .catch(err => console.error(err));
     }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   const handleUpdate = async (e) => {

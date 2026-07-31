@@ -47,7 +47,7 @@ const Trees = () => {
 
                         <div className="trees-card">
                             <div className="trees-img">
-                                <img loading="lazy"  src="assets\Oak.jpg" alt="Oak" onMouseEnter={() => speakTrees("\oak")}/>
+                                <img loading="lazy"  src="assets\Oak.jpg" alt="Oak" onMouseEnter={() => speakTrees("oak")}/>
                             </div>
                             <div className="trees-content">
                                 <h4 className="trees-name">Oak</h4>
