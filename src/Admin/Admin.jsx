@@ -42,7 +42,7 @@ const Admin = () => {
             <label htmlFor="username">Admin Name:</label>
             <input
               type="text"
-              placeholder="📧 Enter Admin Name"
+              placeholder="📧 e.g. weadmin"
               value={username}
               onChange={(e) => setUsername(e.target.value)}
             />
@@ -50,7 +50,7 @@ const Admin = () => {
             <label htmlFor="password">Password:</label>
             <input
               type="password"
-              placeholder="🔒 Enter Your Password"
+              placeholder="🔒 e.g. Admin@07"
               value={password}
               onChange={(e) => setPassword(e.target.value)}
             />
